@@ -4,7 +4,7 @@ Api Used : [https://bored-api.appbrewery.com]
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Oussemasahbeni/Taco-Recipes`
+1. Clone the repository: `git clone https://github.com/Oussemasahbeni/Generate-when-bored`
 2. Navigate to the project directory: `cd todo-list-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
